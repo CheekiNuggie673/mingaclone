@@ -1,19 +1,13 @@
+.mulish-<uniquifier> {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 body {
   background-color: black;
   color: blue;
-  font-family: Arial
+  font-family: Mulish
 }
 
-button {
-  background-color: rgb(48, 45, 45); /*some form of grey*/
-  border-radius: 4px;
-  box-shadow: 0 8px 16px 0 rgba(5, 20, 160, 0.863), 0 6px 20px 0 rgba(5, 20, 160, 0.863);
-  width: 250px;
-  border: none;
-  color: blue;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 12px;
-}
