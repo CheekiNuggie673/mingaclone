@@ -3,3 +3,6 @@
     content: "";
     display: table
 }
+head {
+    font: Muli;
+}
